@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8.9)
+project(hello_ci_ut)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -Wall")
+aux_source_directory(. SOURCES)
+add_executable(hello_ci_ut ${SOURCES})
+target_link_libraries(hello_ci_ut cppunit)

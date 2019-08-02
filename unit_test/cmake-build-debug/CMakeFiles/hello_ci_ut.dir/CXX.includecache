@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xuhuandong/work/hello_ci/Calculator.h
+
+/home/xuhuandong/work/hello_ci/unit_test/main.cpp
+cppunit/TestFixture.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/TestFixture.h
+cppunit/extensions/HelperMacros.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/extensions/HelperMacros.h
+cppunit/TestRunner.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/TestRunner.h
+cppunit/TestResult.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/TestResult.h
+cppunit/TestResultCollector.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/TestResultCollector.h
+cppunit/TextOutputter.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/TextOutputter.h
+cppunit/XmlOutputter.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/XmlOutputter.h
+cppunit/BriefTestProgressListener.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/BriefTestProgressListener.h
+iostream
+-
+fstream
+-
+memory
+-
+../Calculator.h
+/home/xuhuandong/work/hello_ci/Calculator.h
+cppunit/TextTestRunner.h
+/home/xuhuandong/work/hello_ci/unit_test/cppunit/TextTestRunner.h
+
