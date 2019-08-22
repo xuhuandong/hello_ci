@@ -1,3 +1,0 @@
-/home/xuhuandong/work/hello_ci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/xuhuandong/work/hello_ci/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/xuhuandong/work/hello_ci/cmake-build-debug/CMakeFiles/hello_ci.dir
