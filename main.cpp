@@ -8,5 +8,7 @@ int main()
     std::cout << "2 - 1 = " << calculator.sub(2, 1) << std::endl;
 	
 	
+	
+	
     return 0;
 }
